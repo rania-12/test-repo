@@ -36,7 +36,7 @@ for (i = 0; i <= 0; i++) {
 
     WebUI.click(findTestObject('Page_React CRUD App/button_Update'))
 
-    WebUI.setText(findTestObject('Page_React CRUD App/input_Last Name_last_name'), 'rania')
+    WebUI.setText(findTestObject('Page_React CRUD App/input_Last Name_last_name'), 'george')
 
     WebUI.click(findTestObject('New Folder-OR/Page_React CRUD App/button_Update'))
 
